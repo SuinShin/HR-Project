@@ -79,6 +79,9 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 - DB에서 사번과 Password를 대조해서 둘 중 하나라도 일치하지 않으면 로그인 되지 않는다.
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/d39f7e06-3e48-435b-81e6-e45c15885f3c" width="500" height="auto">
 
+- - - 
+
+**💻 관리자 모드**
 
 
 ## 📓소감
