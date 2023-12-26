@@ -71,7 +71,7 @@
 	}
 	
 	//페이징
-	String listUrl="list.jsp"+param;
+	String listUrl="userList.jsp"+param;
 	String pageIndexList=myUtil.pageIndexList(currentPage, totalPage, listUrl);
 	//글 보기
 	String articleUrl=cp+"/Board/userArticle.jsp";
