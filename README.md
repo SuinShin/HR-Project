@@ -108,11 +108,13 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 - - -
 
 **⚙관리자 모드: 사원 정보 입력**
-
+- 사원 정보를 폼에 입력하면 DB에 입력한 정보가 추가된다.
+  
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/9d54f44c-22af-4707-a10f-1df75be4fd21" width="1000" height="auto"><br>
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/05403d31-9511-4d3c-9e97-60862bd3fb3c" width="1000" height="auto">
 
 **⚙관리자 모드: 사원 정보 수정 및 삭제**
+- 마찬가지로, 특정 사원의 이름을 클릭하면 수정, 삭제가 가능하며 DB에 반영된다.
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/49e7e8b6-ec02-46fb-8545-9218c444cc94" width="1000" height="auto"><br>
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/8eeb08fc-eae7-4648-a044-4a7adc03c095" width="1000" height="auto">
