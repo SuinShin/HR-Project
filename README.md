@@ -83,6 +83,9 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 
 **💻 관리자 모드**
 
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/9635ac88-fa41-43b7-aaab-5c1453830b1a" width="800" height="auto">
+
+
 
 ## 📓소감
 
