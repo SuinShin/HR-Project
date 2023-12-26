@@ -2,15 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=cylinder&color=39436f&height=120&text=HR%20Project&animation=&fontColor=e1e0e0&fontSize=70" 
 </div>
 
-<details>
-    <summary>
-        Content
-    </summary>
-        프로젝트 개요
-        프로젝트 정보
-        화면 별 기능
-        소감
-</details>
+- - -
     
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개요 </h2>  
