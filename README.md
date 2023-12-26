@@ -1,4 +1,4 @@
-<div align= "center">
+<div align= "left">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0c1c5f&height=180&text=HR%20Project&animation=&fontColor=ffffff&fontSize=70" />
     </div>
     <div style="text-align: left;"> 
