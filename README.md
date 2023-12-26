@@ -102,6 +102,7 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/9d54f44c-22af-4707-a10f-1df75be4fd21" width="1000" height="auto">
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/05403d31-9511-4d3c-9e97-60862bd3fb3c" width="1000" height="auto">
 <br><br>
+
 **사원 정보 조회**
 - 전체 사원 정보를 직원 테이블에서 받아와서 조회한다.
 
