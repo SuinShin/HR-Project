@@ -40,7 +40,7 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 
 - DB ERD 설계
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/555a8052-838c-48af-a791-d2cffa1892b8" width="800" height="auto">
-
+<br>
 **🔑 공지사항 게시판 CRUD**
 
 - 사내 시스템을 열람하는 사원들을 위한 공지사항 게시판을 구현.
