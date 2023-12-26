@@ -6,9 +6,9 @@
     <summary>
         Content
     </summary>
-        개요
-        내용
-        구현기능
+        프로젝트 개요
+        프로젝트 정보
+        화면 별 기능
         소감
 </details>
     
