@@ -118,14 +118,15 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 - - -
 
 **⚙관리자 모드: 사원 정보 수정 및 삭제**
-- 마찬가지로, 특정 사원의 이름을 클릭하면 수정, 삭제가 가능하며 DB에 반영된다.
+- 마찬가지로, 특정 사원의 이름을 클릭하면 해당 사원의 정보를 수정, 삭제가 가능하며 DB에 반영된다.
+- 현재는 사원의 Email만 수정이 가능하도록 하였다.
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/49e7e8b6-ec02-46fb-8545-9218c444cc94" width="1000" height="auto"><br>
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/8eeb08fc-eae7-4648-a044-4a7adc03c095" width="1000" height="auto">
 
 - - -
 
-**⚙🙍‍♂️ 사원 정보 조회**
+**⚙🙍‍♂️(모든 권한) 사원 정보 조회**
 - 전체 사원 정보를 직원 테이블에서 받아와서 조회한다.
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/05d23b16-23f7-4cea-a21b-89da7ac4c9c6" width="1000" height="auto">
@@ -139,25 +140,30 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 
 - - -
 
-**💻 업무관리 탭**
+**💻 직무관리 탭**
 
 - - -
 
-**⚙관리자 모드: 사원 업무 CRUD**
-- 사원의 Job_ID(직무 코드)를 폼에 입력하여 테이블에 추가한다.
+**⚙관리자 모드: 사원 직무 CRUD**
+- 회사의 직무 정보를 폼에 입력하여 테이블에 추가한다.
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/1422d13b-a331-4ca2-958c-6fee5214cce7" width="1000" height="auto">
 
 - - -
 
-- Job_ID(직무 코드)로 부서 정보를 검색할 수 있다.
-<img src="https://github.com/SuinShin/HR-Project/assets/148019115/420bcd15-6251-4bd5-bfc1-34cd3255c79f" width="1000" height="auto"><br>
-<img src="https://github.com/SuinShin/HR-Project/assets/148019115/95ddad00-f9c2-4e12-b682-30dbfbb0d41d" width="1000" height="auto">
+- 수정하기 버튼으로 수정하여 DB에 반영한다.
+- 현재는 해당 직무의 최소 연봉만 수정하도록 구현하였다.
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/c8920e55-4b08-447e-91ac-230235560527" width="1000" height="auto">
 
 - - -
 
-- 수정하기 버튼으로 수정하여 DB에 반영한다
-<img src="https://github.com/SuinShin/HR-Project/assets/148019115/c8920e55-4b08-447e-91ac-230235560527" width="1000" height="auto">
+**⚙🙍‍♂️(모든 권한) 직무 정보 조회**
+
+- - -
+
+- Job_ID(직무 코드)로 직무 정보를 검색할 수 있다.
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/420bcd15-6251-4bd5-bfc1-34cd3255c79f" width="1000" height="auto"><br>
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/95ddad00-f9c2-4e12-b682-30dbfbb0d41d" width="1000" height="auto">
 
 - - -
 
