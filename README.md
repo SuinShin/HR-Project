@@ -39,9 +39,7 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 ## 🔎프로젝트 내용
 
 - DB ERD 설계
-
-![image](https://github.com/SuinShin/HR-Project/assets/148019115/555a8052-838c-48af-a791-d2cffa1892b8)
-<img src="https://github.com/SuinShin/HR-Project/assets/148019115/555a8052-838c-48af-a791-d2cffa1892b8" width="700" height="auto">
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/555a8052-838c-48af-a791-d2cffa1892b8" width="800" height="auto">
 
 **🔑 공지사항 게시판 CRUD**
 
