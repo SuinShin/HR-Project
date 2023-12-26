@@ -95,6 +95,8 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/fca186f6-e8f6-4a13-b18e-f3ed45b7fc2e" width="1000" height="auto">
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/ea3287e1-d686-49d1-ba8c-a7c6d839f2a0" width="1000" height="auto">
 
+- - - 
+
 **💻 사원관리 탭**
 
 **⚙관리자 모드: 사원 정보 입력**
@@ -108,7 +110,7 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/05d23b16-23f7-4cea-a21b-89da7ac4c9c6" width="1000" height="auto">
 
-
+- - -
 
 ## 📓소감
 
