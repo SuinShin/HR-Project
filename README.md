@@ -83,13 +83,15 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 
 **💻 공지사항 게시판**
 
-**⚙관리자 모드**
+- - -
+
+**⚙ 관리자 모드**
 - 관리자는 게시글의 작성, 수정, 삭제 권한을 갖는다.
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/9635ac88-fa41-43b7-aaab-5c1453830b1a" width="1000" height="auto">
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/bae33dd1-d834-4cb5-a598-d83febf23d6a" width="1000" height="auto">
 
-**🙍‍♂️일반 사원**
+**🙍‍♂️ 일반 사원**
 - 일반 사원은 게시글의 조회만 가능하다.
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/fca186f6-e8f6-4a13-b18e-f3ed45b7fc2e" width="1000" height="auto">
@@ -99,13 +101,15 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 
 **💻 사원관리 탭**
 
+- - -
+
 **⚙관리자 모드: 사원 정보 입력**
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/9d54f44c-22af-4707-a10f-1df75be4fd21" width="1000" height="auto">
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/05403d31-9511-4d3c-9e97-60862bd3fb3c" width="1000" height="auto">
 <br><br>
 
-**사원 정보 조회**
+**⚙🙍‍♂️ 사원 정보 조회**
 - 전체 사원 정보를 직원 테이블에서 받아와서 조회한다.
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/05d23b16-23f7-4cea-a21b-89da7ac4c9c6" width="1000" height="auto">
