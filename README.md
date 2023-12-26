@@ -74,7 +74,7 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/9cf58223-bbcc-444a-a047-1bfb75f6279e" width="500" height="auto"><br>
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/d000e626-5b90-4419-8511-17a9ecb572ce" width="500" height="auto">
-
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/29efb9d3-646b-4248-a0b7-7ec278b91488" width="500" height="auto">
 
 - DB에서 사번과 Password를 대조해서 둘 중 하나라도 일치하지 않으면 로그인 되지 않는다.
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/d39f7e06-3e48-435b-81e6-e45c15885f3c" width="500" height="auto">
@@ -88,6 +88,12 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/9635ac88-fa41-43b7-aaab-5c1453830b1a" width="1000" height="auto">
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/04de5851-829a-453d-bd12-a4540faf07be" width="1000" height="auto">
+
+**🙍‍♂️일반 사원**
+- 일반 사원은 게시글의 조회만 가능하다.
+
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/fca186f6-e8f6-4a13-b18e-f3ed45b7fc2e" width="1000" height="auto">
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/ea3287e1-d686-49d1-ba8c-a7c6d839f2a0" width="1000" height="auto">
 
 
 
