@@ -68,7 +68,8 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 ## 🖥화면 별 기능 설명
 
 **💻 로그인**
-![image](https://github.com/SuinShin/HR-Project/assets/148019115/9cf58223-bbcc-444a-a047-1bfb75f6279e)
+
+![image](https://github.com/SuinShin/HR-Project/assets/148019115/9cf58223-bbcc-444a-a047-1bfb75f6279e)<br>
 ![image](https://github.com/SuinShin/HR-Project/assets/148019115/d000e626-5b90-4419-8511-17a9ecb572ce)
 
 - 사번, DB에 저장된 Password로 로그인한다.
