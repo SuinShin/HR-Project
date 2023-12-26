@@ -14,12 +14,13 @@
 </div>
     
     
-## Contents
+## 📃Contents
 
 1. 프로젝트 개요
 2. 프로젝트 내용
 3. 화면 별 기능 설명
 4. 소감
+   
 
 ## 📌프로젝트 개요
 
@@ -33,6 +34,7 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
     - Database: Oracle SQL developer
     - Language: Java, jsp/Servlet, HTML, CSS, JavaScript, SQL
     - Framework: Spring Tool suite 3.9.1
+      
 
 ## 🔎프로젝트 내용
 
@@ -64,11 +66,12 @@ D- 각 테이블에서 원하는 행을 삭제.
 
 DB의 무결성을 위해, 관리자 권한이 아닌 일반 사원은 테이블 정보 열람만 가능하도록 설계.
 
+
+
 ## 🖥화면 별 기능 설명
 
 
 ## 📓소감
-
 
 아무래도 첫 프로젝트이다 보니, 전체적으로 미숙한 부분이 많이 보였던 프로젝트였다. 
 
