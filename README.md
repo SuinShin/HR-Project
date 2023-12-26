@@ -188,7 +188,7 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 **⚙🙍‍♂️(모든 권한) 부서 정보 조회**
 - 해당 부서 데이터를 등록하면 부서 정보 데이터가 화면에 출력이 되고 부서ID를 검색하면 해당 데이터가 출력.
   
-<img src="https://github.com/SuinShin/HR-Project/assets/148019115/a6e38040-a4ad-4fa2-9754-4527ec9664fb" width="1000" height="auto>
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/a6e38040-a4ad-4fa2-9754-4527ec9664fb" width="1000" height="auto">
 
 - - -
 
