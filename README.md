@@ -5,6 +5,7 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 개요 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> Oracle DB TABLE을 활용하여 인사관리 할 수 있는 웹사이트를 제작했습니다. </div> 
+    
 </div>
     
 <div style="text-align: left;">
