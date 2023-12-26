@@ -67,7 +67,11 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 
 ## 🖥화면 별 기능 설명
 
+- - -
+
 **💻 로그인**
+
+- - -
 
 - 사번, DB에 저장된 Password로 로그인한다.
 - 지정된 프로필 사진, DB에 저장된 사원명의 정보를 받아서 표시한다
@@ -115,6 +119,12 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/05d23b16-23f7-4cea-a21b-89da7ac4c9c6" width="1000" height="auto">
 
 - - -
+
+**💻 업무관리 탭**
+
+- - -
+
+
 
 ## 📓소감
 
