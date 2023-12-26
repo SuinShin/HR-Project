@@ -172,10 +172,25 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 - - -
 
 **⚙관리자 모드: 회사 부서 테이블 CRUD**
+- 회사에 새로운 부서를 추가할 수 있다.
+
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/6518b34a-bf40-4bc2-8e46-19f51afc48dd" width="1000" height="auto">
+
+- - -
+
+- 수정 버튼을 누르면 부서 담당매니저 ID를 수정할 수 있게 활성화함.
+
+![image](https://github.com/SuinShin/HR-Project/assets/148019115/a6e38040-a4ad-4fa2-9754-4527ec9664fb)
+![image](https://github.com/SuinShin/HR-Project/assets/148019115/2056cf1b-3080-457d-8115-72e2cf49e967)
+![image](https://github.com/SuinShin/HR-Project/assets/148019115/270712b6-0d67-4943-a81b-2a43773aa264)
+
 
 - - -
 
 **⚙🙍‍♂️(모든 권한) 부서 정보 조회**
+- 해당 부서 데이터를 등록하면 부서 정보 데이터가 화면에 출력이 되고 부서ID를 검색하면 해당 데이터가 출력
+
+
 
 - - -
 
