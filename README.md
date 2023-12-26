@@ -72,7 +72,7 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 - 사번, DB에 저장된 Password로 로그인한다.
 - 지정된 프로필 사진, DB에 저장된 사원명의 정보를 받아서 표시한다
 
-<img src="https://github.com/SuinShin/HR-Project/assets/148019115/9cf58223-bbcc-444a-a047-1bfb75f6279e" width="500" height="auto">
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/9cf58223-bbcc-444a-a047-1bfb75f6279e" width="500" height="auto"><br>
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/d000e626-5b90-4419-8511-17a9ecb572ce" width="500" height="auto">
 
 
