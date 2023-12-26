@@ -77,7 +77,7 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 - 지정된 프로필 사진, DB에 저장된 사원명의 정보를 받아서 표시한다
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/9cf58223-bbcc-444a-a047-1bfb75f6279e" width="500" height="auto"><br>
-<img src="https://github.com/SuinShin/HR-Project/assets/148019115/d000e626-5b90-4419-8511-17a9ecb572ce" width="500" height="auto">
+<img src="https://github.com/SuinShin/HR-Project/assets/148019115/d000e626-5b90-4419-8511-17a9ecb572ce" width="500" height="auto"><br>
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/29efb9d3-646b-4248-a0b7-7ec278b91488" width="500" height="auto">
 
 - DB에서 사번과 Password를 대조해서 둘 중 하나라도 일치하지 않으면 로그인 되지 않는다.
