@@ -148,9 +148,13 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/1422d13b-a331-4ca2-958c-6fee5214cce7" width="1000" height="auto">
 
+- - -
+
 - Job_ID(직무 코드)로 부서 정보를 검색할 수 있다.
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/420bcd15-6251-4bd5-bfc1-34cd3255c79f" width="1000" height="auto"><br>
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/95ddad00-f9c2-4e12-b682-30dbfbb0d41d" width="1000" height="auto">
+
+- - -
 
 - 수정하기 버튼으로 수정하여 DB에 반영한다
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/c8920e55-4b08-447e-91ac-230235560527" width="1000" height="auto">
