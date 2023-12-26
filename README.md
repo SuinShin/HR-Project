@@ -97,7 +97,8 @@ Oracle DB TABLE을 활용하여 인사 관리를 할 수 있는 웹사이트를 
 
 **💻 사원관리 탭**
 
-**⚙관리자 모드 - 사원 정보 입력 **
+**⚙관리자 모드: 사원 정보 입력 **
+
 <img src="https://github.com/SuinShin/HR-Project/assets/148019115/6dcdeb76-041c-41ce-8b34-bef3f56500aa" width="1000" height="auto">
 
 
